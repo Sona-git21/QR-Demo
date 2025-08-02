@@ -2,4 +2,4 @@ opencv-python
 numpy
 pyzbar
 requests
-ArducamPTZ
+smbus
