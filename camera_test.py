@@ -1,7 +1,7 @@
 """ 
 Make sure before running:
 
-1. ls /dev/video* '
+1. ls /dev/video* 
 
 2. gst-launch-1.0 --version 
 
@@ -46,3 +46,4 @@ finally:
     cap.release()
     cv2.destroyAllWindows()
     print("Camera released and windows closed.")
+
